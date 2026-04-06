@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Neha 👋
 
-<!--
-**nehakaral05/nehakaral05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Data Analyst | Excel, SQL, Power BI
 
-Here are some ideas to get you started:
+I work with messy data and turn it into clear, structured insights that support business decisions.  
+I have hands-on experience building dashboards and reports in HR Analytics and Financial MIS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+
+- Excel (Data Cleaning, Pivot Tables, Lookup Functions)
+- SQL (Basic Queries, Data Extraction)
+- Power BI (Dashboard Development, Visualization)
+
+---
+
+## 📁 Projects
+
+### 🔹 Sales Analysis
+- Analyzed sales data to identify revenue trends and top-performing products  
+- Found that a small number of products contributed to majority of revenue  
+- Identified seasonal spikes in sales during specific months  
+
+### 🔹 HR Analytics Dashboard
+- Analyzed employee data to understand attrition trends  
+- Found higher attrition in specific departments  
+- Observed that lower experience employees had higher turnover  
+
+### 🔹 Financial Data Analysis
+- Analyzed revenue and expense patterns  
+- Identified months with declining profit margins  
+- Found imbalance between expenses and revenue growth
+
+---
+
+## 📈 What I Focus On
+
+- Cleaning and preparing raw data  
+- Identifying patterns and trends  
+- Building dashboards for decision-making  
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/neha-926549331
