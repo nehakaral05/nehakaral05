@@ -22,6 +22,11 @@ I have hands-on experience building dashboards and reports in HR Analytics and F
 - Found that a small number of products contributed to majority of revenue  
 - Identified seasonal spikes in sales during specific months  
 
+### 🔹 Customer Segmentation
+- Performed RFM (Recency, Frequency, Monetary) Analysis on 391K+ retail transactions
+- Segmented customers into Champions, Loyal, New, Average and Lost Customers using SQL
+- Built an interactive Power BI dashboard showing revenue trends, top products and customer insights
+  
 ### 🔹 HR Analytics Dashboard
 - Analyzed employee data to understand attrition trends  
 - Found higher attrition in specific departments  
@@ -31,7 +36,6 @@ I have hands-on experience building dashboards and reports in HR Analytics and F
 - Analyzed revenue and expense patterns  
 - Identified months with declining profit margins  
 - Found imbalance between expenses and revenue growth
-
 ---
 
 ## 📈 What I Focus On
