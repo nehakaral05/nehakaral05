@@ -17,10 +17,11 @@ I have hands-on experience building dashboards and reports in HR Analytics and F
 
 ## 📁 Projects
 
-### 🔹 Sales Analysis
-- Analyzed sales data to identify revenue trends and top-performing products  
-- Found that a small number of products contributed to majority of revenue  
-- Identified seasonal spikes in sales during specific months  
+### 🔹 Supply Chain & Delivery Analysis 
+- Analyzed supply chain & delivery analysis data to identify shipping delays and delivery performance.
+- Identified regions, shipping modes, and product categories with the highest delay rates.
+- Create KPIs such as On-Time Delivery %, Delay Rate, Average Delivery Time, and Total Orders.
+- Built an interactive Power BI dashboard using Excel, SQL, and Power BI to visualize logistics performance and support daata-driven decisions.
 
 ### 🔹 Customer Segmentation
 - Performed RFM (Recency, Frequency, Monetary) Analysis on 391K+ retail transactions
@@ -36,6 +37,12 @@ I have hands-on experience building dashboards and reports in HR Analytics and F
 - Analyzed revenue and expense patterns  
 - Identified months with declining profit margins  
 - Found imbalance between expenses and revenue growth
+
+### 🔹 Sales Analysis
+- Analyzed sales data to identify revenue trends and top-performing products  
+- Found that a small number of products contributed to majority of revenue  
+- Identified seasonal spikes in sales during specific months  
+
 ---
 
 
