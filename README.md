@@ -49,4 +49,4 @@ I have hands-on experience building dashboards and reports in HR Analytics and F
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/neha-926549331
+- LinkedIn: https://www.linkedin.com/in/neha-karal-89a47a41a
