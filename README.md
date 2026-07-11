@@ -27,7 +27,7 @@ I have hands-on experience building dashboards and reports in HR Analytics and F
 - Segmented customers into Champions, Loyal, New, Average and Lost Customers using SQL
 - Built an interactive Power BI dashboard showing revenue trends, top products and customer insights
   
-### 🔹 HR Analytics Dashboard
+### 🔹 Employee Attrition Analysis Dashboard
 - Analyzed employee data to understand attrition trends  
 - Found higher attrition in specific departments  
 - Observed that lower experience employees had higher turnover  
