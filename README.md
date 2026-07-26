@@ -1,6 +1,6 @@
 # Hi, I'm Neha 👋
 
-## 📊 Data Analyst | Excel, SQL, Power BI
+## 📊 Data Analyst | Excel, SQL, Power BI, Python
 
 I work with messy data and turn it into clear, structured insights that support business decisions.  
 I have hands-on experience building dashboards and reports in HR Analytics and Financial MIS.
@@ -12,6 +12,7 @@ I have hands-on experience building dashboards and reports in HR Analytics and F
 - Excel (Data Cleaning, Pivot Tables, Lookup Functions)
 - SQL (Basic Queries, Data Extraction)
 - Power BI (Dashboard Development, Visualization)
+- Python (Pandas, Numpy)
 
 ---
 
